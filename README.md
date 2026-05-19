@@ -80,7 +80,7 @@ Replace `YOUR_USERNAME` with your GitHub username.
 ## 📫 Connect With Me
 
 * 📧 Email: [Arunoday080@gmail.com](mailto:Arunoday080@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn profile link here
+* 💼 LinkedIn: www.linkedin.com/in/arunoday-pratap-singh-rajawat-4b3b28310
 * 🌐 Portfolio: Add your portfolio link here
 
 ---
