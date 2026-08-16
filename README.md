@@ -2,47 +2,44 @@
 
 ## Python Developer | DevOps Enthusiast | Data Analytics Learner
 
-Passionate undergraduate student focused on building scalable applications, automation workflows, and data-driven solutions. Interested in Python development, DevOps practices, cloud technologies, and data analytics.
+Passionate undergraduate building scalable applications, automation workflows, and data-driven solutions. I enjoy solving problems with Python and exploring DevOps and cloud practices.
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Python Development, DevOps, and Cloud Technologies**
-* 💻 Interested in **Automation, Backend Development, CI/CD, Cloud Computing, and Data Analytics**
-* 🔧 Exploring tools like **Docker, Git, GitHub, Linux, Jenkins, and SQL**
-* 📊 Skilled in **Python, SQL, Excel, Data Visualization, and Problem Solving**
-* 🎯 Goal: To become a skilled **Python Developer & DevOps Engineer**
+- 🌱 Currently learning: Python development, DevOps, and Cloud technologies
+- 💻 Interests: Automation, Backend development, CI/CD, Cloud computing, and Data analytics
+- 🔧 Tools & platforms I use: Docker, Git, GitHub, Linux, Jenkins, SQL
+- 📫 Find me on GitHub: https://github.com/arunodaysingh22
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
-### Programming Languages
+- Languages: Python, Java, SQL, C
+- DevOps & CI/CD: Git, Docker, Jenkins, GitHub Actions, Linux
+- Data & Analytics: Excel, Power BI, Tableau, Data visualization
+- Web & DB: HTML, CSS, MySQL
 
-* Python
-* Java
-* SQL
-* C
+---
 
-### DevOps & Tools
+## ⭐ Featured projects
 
-* Git
-* GitHub
-* Docker
-* Jenkins
-* Linux
-* CI/CD
+- [Study-Flow](https://github.com/arunodaysingh22/Study-Flow) — A study-focused project in Python.
+- [transport-management-system](https://github.com/arunodaysingh22/transport-management-system) — Transport management system (project structure and demos).
+- [achievements](https://github.com/arunodaysingh22/achievements) — Small project demonstrating badges/achievements logic.
 
-### Data & Analytics
+There are other experimental repos in my account — feel free to explore.
 
-* Excel
-* Power BI
-* Tableau
-* Data Visualization
+---
 
-### Web & Database
+## 🙌 How you can help me improve this profile
 
-* HTML
-* CSS
-* MySQL
+- Pin 3–6 repositories that best showcase my work (I suggest Study-Flow, transport-management-system, achievements).
+- Add clear descriptions and topics/tags to repositories to improve discoverability.
+- Improve READMEs with screenshots, usage examples, and license information.
+
+---
+
+Thanks for visiting — I'm building and learning every day! 🚀
