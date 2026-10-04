@@ -1,45 +1,109 @@
 # Hi 👋, I'm Arunoday Rajawat
 
-## Python Developer | DevOps Enthusiast | Data Analytics Learner
+### Python Developer | DevOps & Cloud Learner | Data Analytics Enthusiast
 
-Passionate undergraduate building scalable applications, automation workflows, and data-driven solutions. I enjoy solving problems with Python and exploring DevOps and cloud practices.
+I'm an engineering undergraduate passionate about building practical projects,
+automating workflows, and learning how modern applications are developed,
+deployed, and analyzed.
+
+I enjoy working with Python, Linux, Git, SQL, and cloud/DevOps technologies
+while continuously improving my problem-solving and development skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: Python development, DevOps, and Cloud technologies
-- 💻 Interests: Automation, Backend development, CI/CD, Cloud computing, and Data analytics
-- 🔧 Tools & platforms I use: Docker, Git, GitHub, Linux, Jenkins, SQL
-- 📫 Find me on GitHub: https://github.com/arunodaysingh22
+- 🎓 Engineering undergraduate
+- 🐍 Learning Python development and problem solving
+- ☁️ Exploring Cloud & DevOps technologies
+- 📊 Learning Data Analytics and data visualization
+- 🐧 Practicing Linux and shell commands
+- 🔧 Interested in automation, CI/CD, and deployment
+- 🌱 Currently improving my projects and technical skills
+- 💼 Open to internship and entry-level opportunities
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
-- Languages: Python, Java, SQL, C
-- DevOps & CI/CD: Git, Docker, Jenkins, GitHub Actions, Linux
-- Data & Analytics: Excel, Power BI, Tableau, Data visualization
-- Web & DB: HTML, CSS, MySQL
+### 👨‍💻 Programming & Database
+- Python
+- SQL
+- MySQL
+
+### ⚙️ DevOps & Cloud
+- Linux
+- Git
+- GitHub
+- Docker
+- Jenkins
+- GitHub Actions
+- Kubernetes
+- Cloud fundamentals
+
+### 📊 Data & Analytics
+- Excel
+- Power BI
+- Tableau
+- Data Visualization
+
+### 🌐 Web
+- HTML
+- CSS
 
 ---
 
-## ⭐ Featured projects
+## ⭐ Featured Projects
 
-- [Study-Flow](https://github.com/arunodaysingh22/Study-Flow) — A study-focused project in Python.
-- [transport-management-system](https://github.com/arunodaysingh22/transport-management-system) — Transport management system (project structure and demos).
-- [achievements](https://github.com/arunodaysingh22/achievements) — Small project demonstrating badges/achievements logic.
+### 📚 Study-Flow
+A Python-based study-focused project.
 
-There are other experimental repos in my account — feel free to explore.
+🔗 [View Project](https://github.com/arunodaysingh22/Study-Flow)
+
+### 🚍 Transport Management System
+A project for managing transport-related operations and records.
+
+🔗 [View Project](https://github.com/arunodaysingh22/transport-management-system)
+
+### 🏆 Achievements
+A small project demonstrating achievements and badge-related logic.
+
+🔗 [View Project](https://github.com/arunodaysingh22/achievements)
 
 ---
 
-## 🙌 How you can help me improve this profile
+## 📈 Currently Learning
 
-- Pin 3–6 repositories that best showcase my work (I suggest Study-Flow, transport-management-system, achievements).
-- Add clear descriptions and topics/tags to repositories to improve discoverability.
-- Improve READMEs with screenshots, usage examples, and license information.
+- Python
+- SQL
+- Data Analytics
+- Linux
+- Docker
+- CI/CD
+- Cloud Computing
+- DevOps
+- Git & GitHub
 
 ---
 
-Thanks for visiting — I'm building and learning every day! 🚀
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+- Python Development
+- Data Analytics
+- DevOps
+- Cloud & Automation
+- Software Development
+
+---
+
+## 📫 Connect With Me
+
+🐙 GitHub: [@arunodaysingh22](https://github.com/arunodaysingh22)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I'm learning, building, and improving every day. 🚀
